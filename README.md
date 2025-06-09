@@ -40,6 +40,12 @@ Uma vez instaladas as dependências em todas as pastas e todos os comandos supra
 O usuário padrão é ``user@exemplo.com`` e a senha é ``123456``   
 É possível alterar isso no objeto mockUser de LoginAPI
 
+
+
+https://github.com/user-attachments/assets/ce8465e6-9415-4b81-85fa-751298967878
+
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 ### Observações
