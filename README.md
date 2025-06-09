@@ -27,7 +27,7 @@ Usando o terminal, acesse a pasta raíz de cada projeto e execute o  comando ``y
 
 É necessário ter o AndroidStudio instalado para rodar um emulador com a **API 35** ou superior do Android. 
 
-Na pasta de AwesomeProject, execute ``yarn run android`` para instalar o app no emulador (que já deve estar aberto) 
+Na pasta de AwesomeProject, execute ``yarn run android`` para instalar o app no emulador (que já deve estar aberto)  
 Na pasta de LoginAPI, execute ``yarn start``  para inicializar o servidor localmente
 
 Uma vez instaladas as dependências em todas as pastas e todos os comandos supracitados executados, o app está pronto para o uso.
